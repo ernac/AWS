@@ -2,7 +2,7 @@
 FROM ubuntu:latest
 
 # Mantenedor da imagem 
-LABEL maintainer="ETV"
+LABEL maintainer="DSA"
 
 # Atualizando os pacotes do sistema e instalar dependências necessárias
 RUN apt-get update && \
